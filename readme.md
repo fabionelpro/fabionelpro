@@ -5,6 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
+## WARM: This porfile is under construction, you might get some 404
 
 - 🔭 I’m currently working on **[e-commerce](https://nomercado.ao)**
 
